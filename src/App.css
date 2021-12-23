@@ -1,0 +1,46 @@
+#myAudio
+{
+  height: 10vh;
+  width: 80vh;
+}
+.h1
+{
+  padding: 2vh;
+  background: red;
+  width: 52.5%;
+  text-align: center;
+  color:yellowgreen;
+  
+}
+.h2
+{
+  margin-top: -22px;
+  padding: 3vh;
+  width: 50%;
+  text-align: center;
+  line-height: 50px;
+  background-color: aquamarine;
+  color:yellowgreen;
+}
+body
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#i1
+{
+  height: 6vh;
+  width: 56%;
+  /* background-color: aquamarine; */
+}
+.h3
+{
+  /* margin-top: -22px; */
+  padding: 3vh;
+  width: 50%;
+  text-align: center;
+  line-height: 50px;
+  background-color: aquamarine;
+  color:yellowgreen;
+}
